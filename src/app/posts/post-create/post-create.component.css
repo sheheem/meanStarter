@@ -21,3 +21,22 @@ button {
     margin-bottom: 20px;
     width: 120px;
 }
+
+div button {
+    margin-left: 1px;
+    padding: 10px;
+}
+
+div input {
+    visibility: hidden;
+}
+
+.image-preview {
+    width: 100%;
+    height: auto;
+}
+
+.image-preview img {
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+}

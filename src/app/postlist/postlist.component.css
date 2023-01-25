@@ -7,3 +7,13 @@
     margin-top: 50px;
     text-align: center;
 }
+
+.post-image {
+    width: 100%;
+    height: auto;
+}
+
+.post-image img {
+    width: 100%;
+    box-shadow: 1px 1px 5px black;
+}

@@ -1,0 +1,19 @@
+form,
+mat-form-field,
+textarea {
+    margin: auto;
+    width: 95%;
+}
+
+
+mat-form-field,
+input {
+    margin: 1rem auto;
+    width: 95%;
+}
+
+button {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 120px;
+}
